@@ -1,0 +1,11 @@
+html body{
+    font-family: 'DotGothic16', sans-serif;
+    background-color: #A4A4A4;
+    height: 100%;
+
+}
+
+#root{
+    height: 100%;
+}
+
